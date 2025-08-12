@@ -100,12 +100,23 @@ Capture live network packets and identify basic protocols and traffic types usin
 
 ---
 
+---
+
 ## 📸 Screenshots
-*(Add your screenshots here inside the `screenshots/` folder and embed them below)*
 
-Example:
-![Wireshark Capture Screenshot](screenshots/capture_example.png)
+### DNS Traffic
+![DNS Traffic](dns.png)
 
+### HTTP Traffic
+![HTTP Traffic](http.png)
+
+### ICMP Traffic
+![ICMP Traffic](icmp.png)
+
+### TCP Traffic
+![TCP Traffic](tcp.png)
+
+---
 ## 🏆 Outcome
 - Learned how to **capture and filter** network packets using Wireshark.
 - Identified and analyzed multiple network protocols.
